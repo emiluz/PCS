@@ -1,12 +1,21 @@
 div{
 	color: black;
 }
-#container{
-	margin: 30%;
-	background-color: red
-	
+#container{	
+	background-color: gray;
+	text-align: center;
+	}
+#Part1{
+	background-color: orange;
 }
-#footer{
-	background-color: red;
+#Part2{
+	background-color: gray;
 	text-align: center;
 }
+
+img {
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+}
+
